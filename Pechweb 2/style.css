@@ -1,0 +1,16 @@
+body{
+    background-color: #191717;
+}
+main{
+    background-color: #131212;
+    color: gray;
+}
+a,h1{
+    color: gray;
+    text-decoration: none;
+}
+footer{
+    background-color: #191717;
+    color: gray;
+    text-align: center;
+}
